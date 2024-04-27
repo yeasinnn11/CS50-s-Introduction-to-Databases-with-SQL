@@ -1,0 +1,20 @@
+# PostgreSQL
+*.c linguist-detectable=false
+*.h linguist-detectable=false
+
+# Scalability, Relational Databases, SQLite, MySQL
+*.sql linguist-detectable=true
+
+# Java
+*.java linguist-detectable=false
+
+# Foreign Keys, Data Store, SQL (Programming Language)
+*.sql linguist-detectable=true
+
+# Python
+*.py linguist-detectable=false
+
+# JavaScript, HTML, XML
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
