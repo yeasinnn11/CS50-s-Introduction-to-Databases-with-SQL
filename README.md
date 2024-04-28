@@ -2,3 +2,5 @@
 <h2 align="center">This is CS50's introduction to databases using a language called SQL. Learned how to create, read, update, and delete data with relational databases, which store data in rows and columns. Learned how to model real-world entities and relationships among them using tables with appropriate types, triggers, and constraints. Learned how to normalize data to eliminate redundancies and reduce potential for errors. Learned how to join tables together using primary and foreign keys. Learned how to automate searches with views and expedite searches with indexes. Learned how to connect SQL with other languages like Python and Java. Course begins with SQLite for portability's sake and ends with introductions to PostgreSQL and MySQL for scalability's sake as well. Assignments inspired by real-world datasets.</h2>
 <h3 align="center"> CS50's Introduction to Databases with SQL</h3>
 <h3 align="center">Associated skills: PostgreSQL, Scalability, Relational Databases, Java (Programming Language), Foreign Keys, SQLite, MySQL, Data Store, SQL (Programming Language), Python (Programming Language)</h3>
+
+<img src="CS50 SQL.png" alt="CS50 SQL Picture">
